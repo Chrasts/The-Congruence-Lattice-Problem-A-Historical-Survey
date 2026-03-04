@@ -14,11 +14,11 @@ Build
 
 To compile the document from the source file:
 
-latexmk -pdf paper.tex
+latexmk -pdf clp_survey.tex
 
 or with standard LaTeX tools:
 
-pdflatex paper.tex
+pdflatex clp_survey.tex
 Notes
 
 This text was written as a short expository survey.
